@@ -1,2 +1,4 @@
 Este é um texto qualquer
 Fiz mais algo aqui
+
+Olá mundo sem conflito!
